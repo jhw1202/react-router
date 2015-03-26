@@ -1,18 +1,12 @@
 [![npm package](https://img.shields.io/npm/v/react-router.svg?style=flat-square)](https://www.npmjs.org/package/react-router)
 [![build status](https://img.shields.io/travis/rackt/react-router/master.svg?style=flat-square)](https://travis-ci.org/rackt/react-router)
 [![dependency status](https://img.shields.io/david/rackt/react-router.svg?style=flat-square)](https://david-dm.org/rackt/react-router)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rackt/react-router?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 React Router
 ============
 
 A complete routing library for React.
-
-React 0.13 Support
-==================
-
-Please help out, we will be shipping 0.13 support ASAP.
-
-https://github.com/rackt/react-router/issues/638
 
 Docs
 ----
@@ -144,4 +138,3 @@ Thanks, Ember
 This library is highly inspired by the Ember.js routing API. In general,
 it's a translation of the Ember router api to React. Huge thanks to the
 Ember team for solving the hardest part already.
-
